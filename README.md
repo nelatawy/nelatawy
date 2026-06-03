@@ -16,10 +16,11 @@ CSED student @ Alexandria University. I enjoy building things — low-level tool
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
+## Preferences
+![languages](./langs.svg)
+
 ## GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=nelatawy&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=nelatawy&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nelatawy&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![Nour's GitHub contributions](https://ghchart.rshah.org/378ADD/nelatawy)
 
 ## Competitive Programming
 - LeetCode: approx. 145 problems — 83 medium, 17 hard
