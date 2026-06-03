@@ -1,0 +1,66 @@
+<svg viewBox="0 0 480 250" xmlns="http://www.w3.org/2000/svg" width="480" height="250">
+  <defs>
+    <style>
+      .bg { fill: #161b22; }
+      .title { fill: #8b949e; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; font-size: 11px; letter-spacing: 0.08em; }
+      .name { fill: #e6edf3; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; font-size: 13px; font-weight: 500; }
+      .note { fill: #8b949e; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; font-size: 11px; }
+      .track { fill: #21262d; }
+
+      .bar-java { fill: #D85A30; transform-origin: left center; animation: grow-java 1.0s 0.2s cubic-bezier(.4,0,.2,1) both; }
+      .bar-c    { fill: #378ADD; transform-origin: left center; animation: grow-c    1.0s 0.5s cubic-bezier(.4,0,.2,1) both; }
+      .bar-py   { fill: #639922; transform-origin: left center; animation: grow-py   1.0s 1.2s cubic-bezier(.4,0,.2,1) both; }
+      .bar-cpp  { fill: #5DCAA5; transform-origin: left center; animation: grow-cpp  1.0s 1.5s cubic-bezier(.4,0,.2,1) both; }
+
+      @keyframes grow-java { from { transform: scaleX(0); } to { transform: scaleX(0.92); } }
+      @keyframes grow-c    { from { transform: scaleX(0); } to { transform: scaleX(0.88); } }
+      @keyframes grow-py   { from { transform: scaleX(0); } to { transform: scaleX(0.60); } }
+      @keyframes grow-cpp  { from { transform: scaleX(0); } to { transform: scaleX(0.40); } }
+
+      .ic-java { fill: #F5C4B3; }
+      .ic-c    { fill: #B5D4F4; }
+      .ic-py   { fill: #C0DD97; }
+      .ic-cpp  { fill: #9FE1CB; }
+      .it-java { fill: #4A1B0C; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; font-size: 11px; }
+      .it-c    { fill: #042C53; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; font-size: 12px; font-weight: 700; }
+      .it-py   { fill: #173404; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; font-size: 12px; }
+      .it-cpp  { fill: #04342C; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; font-size: 10px; font-weight: 700; }
+    </style>
+  </defs>
+
+  <rect width="480" height="250" rx="10" class="bg"/>
+  <text x="20" y="28" class="title">LANGUAGES</text>
+
+  <!-- Java -->
+  <circle cx="38" cy="58" r="14" class="ic-java"/>
+  <text x="38" y="63" text-anchor="middle" class="it-java">☕</text>
+  <text x="62" y="54" class="name">Java  <tspan class="note">diehard fan</tspan></text>
+  <text x="62" y="68" class="note">verbose and proud of it</text>
+  <rect x="62" y="74" width="398" height="7" rx="3.5" class="track"/>
+  <rect x="62" y="74" width="398" height="7" rx="3.5" class="bar-java"/>
+
+  <!-- C -->
+  <circle cx="38" cy="108" r="14" class="ic-c"/>
+  <text x="38" y="113" text-anchor="middle" class="it-c">C</text>
+  <text x="62" y="104" class="name">C</text>
+  <text x="62" y="118" class="note">systems, shells, the real stuff</text>
+  <rect x="62" y="124" width="398" height="7" rx="3.5" class="track"/>
+  <rect x="62" y="124" width="398" height="7" rx="3.5" class="bar-c"/>
+
+  <!-- Python -->
+  <circle cx="38" cy="158" r="14" class="ic-py"/>
+  <text x="38" y="163" text-anchor="middle" class="it-py">🐍</text>
+  <text x="62" y="154" class="name">Python</text>
+  <text x="62" y="168" class="note">AI, scripting, glue code</text>
+  <rect x="62" y="174" width="398" height="7" rx="3.5" class="track"/>
+  <rect x="62" y="174" width="398" height="7" rx="3.5" class="bar-py"/>
+
+  <!-- C++ -->
+  <circle cx="38" cy="208" r="14" class="ic-cpp"/>
+  <text x="38" y="213" text-anchor="middle" class="it-cpp">C++</text>
+  <text x="62" y="204" class="name">C++</text>
+  <text x="62" y="218" class="note">competitive programming &amp; code that's unfortunately hard to write in raw C</text>
+  <rect x="62" y="224" width="398" height="7" rx="3.5" class="track"/>
+  <rect x="62" y="224" width="398" height="7" rx="3.5" class="bar-cpp"/>
+
+</svg>
