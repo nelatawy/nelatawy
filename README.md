@@ -21,8 +21,6 @@ CSED student @ Alexandria University. I enjoy building things — low-level tool
 
 ## GitHub Stats
 ![Nour's GitHub contributions](https://ghchart.rshah.org/378ADD/nelatawy)
-![](https://img.shields.io/github/commit-activity/y/nelatawy/nelatawy?label=commits%20last%20year&color=378ADD&style=flat-square)
-
 ## Competitive Programming
 - LeetCode: approx. 145 problems — 83 medium, 17 hard
 - Codeforces: approx. 250 problems 
