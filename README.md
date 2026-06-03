@@ -45,9 +45,6 @@ Projects:
 ## Preferences
 ![languages](./langs.svg)
 
-## GitHub Stats
-![Nour's GitHub contributions](https://ghchart.rshah.org/378ADD/nelatawy)
-
 ## Problem Solving
 - LeetCode: ~145 solved (83 Medium, 17 Hard) , **Top : 87.5%**
 - Codeforces: ~250 solved
