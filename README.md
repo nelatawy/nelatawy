@@ -46,5 +46,5 @@ Projects:
 ![languages](./langs.svg)
 
 ## Problem Solving
-- LeetCode: ~145 solved (83 Medium, 17 Hard) , **Top : 87.5%**
+- LeetCode: ~145 solved (83 Medium, 17 Hard) , **Beats : 87.5%**
 - Codeforces: ~250 solved
