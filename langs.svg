@@ -35,7 +35,6 @@
   <circle cx="38" cy="58" r="14" class="ic-java"/>
   <text x="38" y="63" text-anchor="middle" class="it-java">☕</text>
   <text x="62" y="54" class="name">Java  <tspan class="note">diehard fan</tspan></text>
-  <text x="62" y="68" class="note">verbose and proud of it</text>
   <rect x="62" y="74" width="398" height="7" rx="3.5" class="track"/>
   <rect x="62" y="74" width="398" height="7" rx="3.5" class="bar-java"/>
 
